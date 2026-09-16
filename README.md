@@ -248,6 +248,7 @@ No credit card required. Build AI apps for $0.
 | [AIML API](https://aimlapi.com) | 200+ models, one API | Free tier included | `apiKey` | [Docs](https://docs.aimlapi.com) |
 | [LiteLLM](https://github.com/BerriAI/litellm) | Unified proxy for all providers | Unlimited (self-hosted) | `None` | [Docs](https://docs.litellm.ai) |
 | [Puter](https://puter.com) | Free AI in browser | Free, no signup | `None` | [Docs](https://developer.puter.com) |
+| [TokenWorks](https://token8341.com) | Unified API for GPT-4o, Claude, Gemini, DeepSeek, Qwen & more | Free credits on signup | `apiKey` | [Docs](https://token8341.com) |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
